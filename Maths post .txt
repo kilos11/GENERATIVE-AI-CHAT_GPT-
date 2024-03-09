@@ -1,0 +1,26 @@
+LET AI HELP YOU WITH MATHS PROBLEMS.
+https://chat.whatsapp.com/HQNkG10zl4H9wSYsjVxTp1
+
+My first expression is: 4+5(67*7-6*9/5)
+
+First, we simplify the innermost operations within parentheses:
+
+67 * 7 = 469 6 * 9 = 54 54 / 5 = 10.8
+
+Now, we substitute these values back into the original expression:
+
+4 + 5 * (469 - 10.8)
+
+Next, we perform the subtraction within the parentheses:
+
+469 - 10.8 = 458.2
+
+Finally, we evaluate the multiplication outside the parentheses:
+
+5 * 458.2 = 2291
+
+Now, we add the remaining number:
+
+4 + 2291 = 2295
+
+Therefore, the result of the expression "4 + 5(677-69/5)" is 2295.

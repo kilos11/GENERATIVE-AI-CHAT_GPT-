@@ -1,0 +1,1 @@
+As a dietician, give me a [number of weeks] week diet plan with caloric breakdown for a [diet preference] [sex] aged [age] weighing [weight] pounds and [number of feet] feet tall. I want to lose [number] pounds a week. Keep the macros at [% of carbs] carbs, [% of fats] fats and [% of protein] protein.

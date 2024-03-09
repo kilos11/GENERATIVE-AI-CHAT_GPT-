@@ -1,0 +1,1 @@
+Generate a workout plan for a [sex], aged [age] who is [number of] centimeters tall.
